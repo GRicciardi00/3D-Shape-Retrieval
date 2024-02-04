@@ -13,3 +13,6 @@ The neural network model of choice is GoogleNet, selected for its inception modu
 - scikit-learn
 - PIL
 - torchvision
+
+## Result
+![alt text](https://github.com/GRicciardi00/3D-Shape-Retrieval/blob/main/result.png)
